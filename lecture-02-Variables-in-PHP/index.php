@@ -20,6 +20,7 @@ define('BR', '<br/>');
 
 const VERSION = "1.0.0";
 
+
 // it showes detail information about the variable
 
 // var_dump($productPrice);
