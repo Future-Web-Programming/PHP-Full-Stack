@@ -3,7 +3,9 @@
 ## PHP Type Juggling
 
 ### Summary:
-In this tutorial, you’ll learn about PHP type juggling and how it works.
+In this tutorial, you’ll learn about PHP type juggling and Type Casting in Detail and how it works.
+
+[![Lecture -04 Type Casting and Type Juggling](https://i9.ytimg.com/vi/4RDaNtSD5s0/mqdefault.jpg?v=67a5a812&sqp=COjQlr0G&rs=AOn4CLAteX8Sx851-cuvnUVXwsQr2yynVw)](https://youtu.be/4RDaNtSD5s0)
 
 ### Introduction to PHP Type Juggling
 PHP is a loosely typed programming language, meaning that when you define a variable, you don’t need to declare its type explicitly. PHP determines the type by the context in which the variable is used.
