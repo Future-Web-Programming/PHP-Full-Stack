@@ -1,4 +1,4 @@
-# PHP Assignment Operators
+# PHP Operators
 
 In PHP, operators are special symbols used to perform operations on variables and values. Operators help you perform a variety of tasks, such as mathematical calculations, string manipulations, logical comparisons, and more. Understanding operators is essential for writing effective and efficient PHP code. PHP operators are categorized into several types such as Arithmetic operators,
 Assignment operators,
